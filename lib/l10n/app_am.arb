@@ -1,0 +1,17 @@
+{
+    "welcomeBack": "እንኳን ደህና መጡ",
+    "pleaseEnterYourPhone": "እባክዎ የስልክ ቁጥርዎን ያስገቡ",
+    "phoneNumber": "ስልክ ቁጥር",
+    "password": "የይለፍ ቃል",
+    "forgotPassword": "የይለፍ ቃሎን ረስተዋል?",
+    "login": "ይግቡ",
+    "dontHaveAccount": "አካውንት የለዎትም? ",
+    "signupLogin": "አካውንት ይፍጠሩ",
+    "loggingIn": "ትንሽ ይጠብቁ",
+    "signingYouIn": "ትንሽ ይጠብቁ",
+    "safariNotSupported": "እባክዎ የኢትዮ-ቴሌኮም ስልክ ቁጥር ያስገቡ",
+    "emptyPhone": "እባክዎ ስልክ ቁጥርዎን ያስገቡ",
+    "invalidPhone": "ያስገቡት ስልክ ቁጥር ልክ አይደለም",
+    "emptyPwd": "እባክዎ የይለፍ ቃልዎን ያስገቡ",
+    "languages": "ቋንቋዎች"
+}

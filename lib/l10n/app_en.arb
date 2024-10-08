@@ -1,0 +1,63 @@
+{
+    "welcomeBack": "Welcome Back",
+    "@welcomeBack": {
+        "description": "Welcome Back"
+    },
+    "pleaseEnterYourPhone": "Please enter your phone and password to login",
+    "@pleaseEnterYourPhone": {
+        "description": "Please enter your phone and password to login"
+    },
+    "phoneNumber": "Phone Number",
+    "@phoneNumber": {
+        "description": "Phone Number"
+    },
+    "password": "Password",
+    "@password": {
+        "description": "Password"
+    },
+    "forgotPassword": "Forgot Password",
+    "@forgotPassword": {
+        "description": "Forgot Password"
+    },
+    "login": "Login",
+    "@login": {
+        "description": "Login"
+    },
+    "dontHaveAccount": "Don't have any account?",
+    "@dontHaveAccount": {
+        "description": "Don't have any account?"
+    },
+    "signupLogin": "Sign Up",
+    "@signupLogin": {
+        "description": "Sign Up"
+    },
+    "loggingIn": "Logging In",
+    "@loggingIn": {
+        "description": "Logging In"
+    },
+    "signingYouIn": "Signing you In",
+    "@signingYouIn": {
+        "description": "Signing you In"
+    },
+    "safariNotSupported": "Safaricom Provider is not supported yet. Please use Ethio-Telecom Provider",
+    "@safariNotSupported": {
+        "description": "Safaricom Provider is not supported yet. Please use Ethio-Telecom Provider"
+    },
+    "emptyPhone": "Please Enter your Phone Number",
+    "@emptyPhone": {
+        "description": "Please Enter your Phone Number"
+    },
+    "invalidPhone": "Please Enter a Valid Phone Number",
+    "@invalidPhone": {
+        "description": "Please Enter a Valid Phone Number"
+    },
+    "emptyPwd": "Please Enter a Password",
+    "@emptyPwd": {
+        "description": "Please Enter a Password"
+    },
+    "languages": "Languages",
+    "@languages": {
+        "description": "Languages"
+    }
+    
+}
